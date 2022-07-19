@@ -1,0 +1,7 @@
+Mensagem do JMS = cabeçalho, propriedade, corpo da mensagem
+
+Cabeçalho = identificador, dados de remetente e de destino, prioridade das mensagens;
+Propriedade = informando em que contexto esta aplicação esta inserida; 
+Corpo da mensagem = caracteriticas da mensagem (texto, xml, js, etc).
+
+
